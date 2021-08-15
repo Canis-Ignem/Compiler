@@ -1,0 +1,22 @@
+program ejemplo{
+
+procedure prueba(A: in float; S: out float)
+{
+var b,c: integer;
+
+c=1;
+array[] r = [c,b];
+b =r[1];
+
+for a from 0 to 4 do
+ if( b==1 or c==1 ) then {
+	b=1;
+	};
+
+
+
+S = A*B;
+println(S);
+};
+
+};

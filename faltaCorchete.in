@@ -1,0 +1,26 @@
+program ejemplo_de_la_practica {
+		var a,b,c : integer;
+		var d,e : float;
+	/*Esto es un ****comentario**/
+	
+	procedure sumar (x,y: in integer; resul: in out integer) {
+		var aux:integer;
+
+
+
+		while  aux /= 0 
+
+				aux=x; 
+				resul=y;
+				aux = aux - 1;
+				resul = resul+1;
+	       			 } ;
+		};
+
+	
+		read(a); read(b);
+		d= 1/b;
+		e= 1/a;
+		c= c*(c*d)+e;
+		println(c*c);
+	};
